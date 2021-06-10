@@ -89,6 +89,8 @@ At the meantime, we will record the start time stamp or end time stamp for it.
 
 Other functions please refer to DJI PSDK Document.
 
+# Instructions on the SAR Project (Hardware side)
+Please refer to `hardware/Hardware.docx`.
 
 # Contributions
 - Qi GAO (qigao.17@intl.zju.edu.cn)
